@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>ANPROFOR - GUATEMALA</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="img/favicon.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/venobox/venobox.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Theme Name: TheEvent
+    Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body>
+
+  <!--==========================
+    Header
+  ============================-->
+  <header id="header" class="header-fixed">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <!-- Uncomment below if you prefer to use a text logo -->
+        <!-- <h1><a href="#main">C<span>o</span>nf</a></h1>-->
+        <a href="index.html#intro" class="scrollto"><img src="img/anpro2.png" alt="" title=""></a>
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="buy-tickets"><a href="https://forms.gle/nNnwDUr2LwAzfNDt7">Registrate Aquí</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+
+  <main id="main" class="main-page">
+
+    <!--==========================
+      Speaker Details Section
+    ============================-->
+    <section id="speakers-details" class="wow fadeIn">
+      <div class="container">
+        <div class="section-header">
+          <h2>Conferencista</h2>
+          <p>Guatemala</p>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+           &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="img/speakers/Fredy.png" alt="Speaker 1" class="img-fluid" width="250" height="250"  align="center">
+          </div>
+
+          <div class="col-md-6">
+            <div class="details">
+              <h2>Fredy Sánchez </2>
+              <div class="social">                
+                
+              </div>
+              <p align="justify">
+                           
+                <br><b>Cargos</b>
+                <br>- Perito Jefe del laboratorio de Informática Forense de INACIF
+                <br>- Catedrático universitario. 
+                <br>
+                <br>
+                <br><b>Formación académica</b>
+                <br>- Ingeniero en Sistemas de Información y Ciencias de la Computación
+                <br>- Ingeniero en Sistemas de Información y Ciencias de la Computación
+                <br>
+                <br>
+                <br><b>Sobre mi</b>
+                <br> Soy un apasionado en informática forense y me he desempeñado como Perito en Informática
+Forense en el Instituto Nacional de Ciencias Forenses de Guatemala desde 2017. he recibido
+formación a través de cursos, diplomados, webinars y pasantías en colaboración con entidades
+internacionales como INTERPOL, la Procuraduría General de la República de México (PGR), el
+Instituto de Ciencias Forenses de Puerto Rico, el Instituto de Medicina Legal de Panamá (IMELCF),
+la Policía Nacional de Colombia, Policía Nacional de Corea, Laboratorio Pericial Forense de San
+Juan Alicante, España, además de reconocidas organizaciones de tecnología forense como Magnet
+Forensics, Cellebrite, y Digital Intelligence.  
+                <br>
+                <br>
+                <br> <b>Ponencias en algunas Conferencias</b>
+                <br>Magnet Virtual Summit 2023, con el tema “Una herramienta para combatir el abuso sexual infantil” 
+                <br>X Congreso Internacional de Criminología y Criminalística, Alicante, España, con el Tema “Archivos
+con contenido sexual infantil desde la perspectiva del perito en informática”. 
+                <br>Litigación Estratégica en la Acusación, con el tema Peritaje informático, (Instituto de la Defensa
+Pública Penal de Guatemala)
+                <br>Primera Cohorte de la Malla Técnica para profesionalización en el Servicio – Nivel Gerencial, con el
+tema Informática forense, (Ministerio Público). 
+                <br>VIII Congreso de Ingeniería en sistemas de la Universidad Mariano Gálvez, sede Cobán, Ciberdelitos
+en Guatemala su Investigación y Penas. 
+                <br>Estándares de Calidad en el Procesamiento de Escena del Crimen e Investigación Criminal, con el
+tema Informática Forense. Desarrollado por USAID y Ministerio Público.
+                <br>
+                <br>
+                <br><b>Artículos Publicados</b>
+                <br>Revista “Dialogo Forense” del Instituto Nacional de ciencias Forenses de Guatemala: 
+                 <br>- “Conversaciones de la aplicación WhatsApp y ejemplos de su valor probatorio como evidencia
+digital en la legislación guatemalteca”, año 2020. 
+                <br>- “Análisis Forense Sobre Imágenes Digitales, un ejemplo de su aplicabilidad”, año 2021. 
+                <br>- “Casos de abuso sexual infantil, desde la perspectiva del perito en informática forense”, año 2023. 
+                <br>
+                <br>Revista <b>“Cybersecurity Magazine Información & Privacidad” </b> del INCIBE-GT: 
+                <br>- “La importancia de la informática forense como un eslabón en el proceso de ciberseguridad", año 2021.
+                
+                <br>                  
+
+                <br>
+              </p>
+ 
+             
+            </div>
+          </div>
+          
+                
+
+          
+          
+          
+          
+          
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <img src="img/anpro2.png" alt="ANPROFOR">
+            <p>Asociación Nacional de Profesionales Forenses.</p> <br>
+            <p>Huehuetenango, Guatemala</p>
+            <p>San Marcos, Guatemala</p>
+          </div>
+
+          
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contacto</h4>
+           <p> <strong>Email:</strong> anproforguatemala@gmail.com 
+            <br> <strong>Telegram:</strong> @anproforguate
+              <strong>Whatsapp:</strong> (+502) 5913-9131</p>
+            
+          </div>
+
+
+            <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Redes Sociales</h4>
+                        
+            <div class="social-links">
+              <a href="https://www.facebook.com/ANPROFOR/" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.instagram.com/anproforguate/?hl=es-la" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="https://twitter.com/anprofor" class="twitter"><i class="fa fa-twitter"></i></a>
+              <a href="https://www.youtube.com/@anproforguate6027/streams" class="twitter"><i class="fa fa-youtube-play"></i></a> 
+              <a href="https://www.linkedin.com/company/81955512" class="twitter"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+              <a href="https://t.me/anprofor" class="twitter"><i class="fa fa-telegram" aria-hidden="true"></i></a> 
+
+
+             </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>TheEvent</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!--
+          All the links in the footer should remain intact.
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=TheEvent
+        -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/venobox/venobox.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+</body>
+
+</html>
